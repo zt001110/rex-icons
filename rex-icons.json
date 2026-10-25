@@ -1,0 +1,14 @@
+{
+  "name": "Rex 图标库",
+  "description": "综艺分类图标，适用于 Rex 图标索引。",
+  "icons": [
+    {
+      "name": "国内综艺",
+      "url": "https://zt001110.github.io/rex-icons/logos/domestic-variety-show-2.png"
+    },
+    {
+      "name": "国外综艺",
+      "url": "https://zt001110.github.io/rex-icons/logos/foreign-variety-show-2.png"
+    }
+  ]
+}
