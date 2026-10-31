@@ -20,11 +20,27 @@
     },
     {
       "name": "哔哩哔哩",
-      "url": "https://zt001110.github.io/rex-icons/logos/哔哩哔哩.svg"
+      "url": "https://zt001110.github.io/rex-icons/logos/哔哩哔哩.png"
     },
     {
       "name": "YouTube",
-      "url": "https://zt001110.github.io/rex-icons/logos/YouTube.svg"
+      "url": "https://zt001110.github.io/rex-icons/logos/YouTube.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://zt001110.github.io/rex-icons/logos/TikTok.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://zt001110.github.io/rex-icons/logos/Instagram.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://zt001110.github.io/rex-icons/logos/Facebook.png"
+    },
+    {
+      "name": "红果短剧",
+      "url": "https://zt001110.github.io/rex-icons/logos/红果短剧.jpg"
     }
   ]
 }

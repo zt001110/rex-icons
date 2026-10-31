@@ -12,8 +12,12 @@
 
 - 国内综艺：logos/domestic-variety-show-2.png
 - 国外综艺：logos/foreign-variety-show-2.png
-- 哔哩哔哩：logos/哔哩哔哩.svg
-- YouTube：logos/YouTube.svg
+- 哔哩哔哩：logos/哔哩哔哩.png
+- YouTube：logos/YouTube.png
+- TikTok：logos/TikTok.png
+- Instagram：logos/Instagram.png
+- Facebook：logos/Facebook.png
+- 红果短剧：logos/红果短剧.jpg
 
 ## 添加图标
 
