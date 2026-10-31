@@ -10,20 +10,20 @@
 
 ## 当前图标
 
-当前索引统一使用 `logos/apple-dark/` 下的暗色 Apple App 风格 PNG，原始 Logo PNG 仍保留在 `logos/`。
+App 图标使用 Apple App Store artwork 转存的 PNG；综艺分类图标使用原始 PNG，不额外加底或重绘。
 
-- 国内综艺：logos/apple-dark/国内综艺.png
-- 国外综艺：logos/apple-dark/国外综艺.png
-- 哔哩哔哩：logos/apple-dark/哔哩哔哩.png
-- YouTube：logos/apple-dark/YouTube.png
-- TikTok：logos/apple-dark/TikTok.png
-- Instagram：logos/apple-dark/Instagram.png
-- Facebook：logos/apple-dark/Facebook.png
-- 红果短剧：logos/apple-dark/红果短剧.png
-- 微博：logos/apple-dark/微博.png
-- 微信：logos/apple-dark/微信.png
-- 知乎：logos/apple-dark/知乎.png
-- 小红书：logos/apple-dark/小红书.png
+- 国内综艺：logos/国内综艺.png
+- 国外综艺：logos/国外综艺.png
+- 哔哩哔哩：logos/app-store/哔哩哔哩.png
+- YouTube：logos/app-store/YouTube.png
+- TikTok：logos/app-store/TikTok.png
+- Instagram：logos/app-store/Instagram.png
+- Facebook：logos/app-store/Facebook.png
+- 红果短剧：logos/app-store/红果短剧.png
+- 微博：logos/app-store/微博.png
+- 微信：logos/app-store/微信.png
+- 知乎：logos/app-store/知乎.png
+- 小红书：logos/app-store/小红书.png
 
 ## 添加图标
 
