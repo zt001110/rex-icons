@@ -10,20 +10,20 @@
 
 ## 当前图标
 
-App 图标使用 Apple App Store artwork 转存的 PNG；综艺分类图标使用原始 PNG，不额外加底或重绘。
+App 图标使用 Apple App Store 官方 artwork 的 PNG，并按 iOS 主屏使用透明圆角遮罩；哔哩哔哩使用官方品牌规范中的无文字图标。综艺分类图标使用原始 PNG，不额外加底或重绘。
 
 - 国内综艺：logos/国内综艺.png
 - 国外综艺：logos/国外综艺.png
-- 哔哩哔哩：logos/app-store/哔哩哔哩.png
-- YouTube：logos/app-store/YouTube.png
-- TikTok：logos/app-store/TikTok.png
-- Instagram：logos/app-store/Instagram.png
-- Facebook：logos/app-store/Facebook.png
-- 红果短剧：logos/app-store/红果短剧.png
-- 微博：logos/app-store/微博.png
-- 微信：logos/app-store/微信.png
-- 知乎：logos/app-store/知乎.png
-- 小红书：logos/app-store/小红书.png
+- 哔哩哔哩：logos/official-ios/哔哩哔哩.png
+- YouTube：logos/official-ios/YouTube.png
+- TikTok：logos/official-ios/TikTok.png
+- Instagram：logos/official-ios/Instagram.png
+- Facebook：logos/official-ios/Facebook.png
+- 红果短剧：logos/official-ios/红果短剧.png
+- 微博：logos/official-ios/微博.png
+- 微信：logos/official-ios/微信.png
+- 知乎：logos/official-ios/知乎.png
+- 小红书：logos/official-ios/小红书.png
 
 ## 添加图标
 
