@@ -17,7 +17,7 @@
 - TikTok：logos/TikTok.png
 - Instagram：logos/Instagram.png
 - Facebook：logos/Facebook.png
-- 红果短剧：logos/红果短剧.jpg
+- 红果短剧：logos/红果短剧.png
 
 ## 添加图标
 
