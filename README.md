@@ -14,9 +14,9 @@
 - 国外综艺：logos/foreign-variety-show-2.png
 - 哔哩哔哩：logos/哔哩哔哩.png
 - YouTube：logos/YouTube.png
-- TikTok：logos/TikTok.png
-- Instagram：logos/Instagram.png
-- Facebook：logos/Facebook.png
+- TikTok：logos/TikTok-color.png
+- Instagram：logos/Instagram-color.png
+- Facebook：logos/Facebook-color.png
 - 红果短剧：logos/红果短剧.png
 - 微博：logos/微博.png
 - 微信：logos/微信.png
