@@ -18,6 +18,10 @@
 - Instagram：logos/Instagram.png
 - Facebook：logos/Facebook.png
 - 红果短剧：logos/红果短剧.png
+- 微博：logos/微博.png
+- 微信：logos/微信.png
+- 知乎：logos/知乎.png
+- 小红书：logos/小红书.png
 
 ## 添加图标
 
