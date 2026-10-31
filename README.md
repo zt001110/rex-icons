@@ -12,6 +12,8 @@
 
 - 国内综艺：logos/domestic-variety-show-2.png
 - 国外综艺：logos/foreign-variety-show-2.png
+- 哔哩哔哩：logos/哔哩哔哩.svg
+- YouTube：logos/YouTube.svg
 
 ## 添加图标
 
