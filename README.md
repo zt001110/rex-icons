@@ -12,7 +12,22 @@
 
 EMBY 图标保存在 `logos/EMBY/`：步兵、瞬影、兔子、YounoPlus、ETFLIX。
 
-App 图标使用 Apple App Store 官方 artwork 的 PNG，并按 iOS 主屏使用透明圆角遮罩；哔哩哔哩使用官方品牌规范中的无文字图标。综艺分类图标使用原始 PNG，不额外加底或重绘。
+App 图标通过 [App Store Lookup](https://applookup.pro/) 使用的 Apple iTunes Lookup API 获取，采用官方 `artworkUrl512` 原图，仅转换为 PNG 格式，不添加圆角遮罩或重绘。综艺分类图标使用原始 PNG，不额外加底或重绘。
+
+官方图标更新于 2026-11-05，核对的 App Store 条目如下：
+
+| 图标 | App Store ID | 商店地区 |
+| --- | --- | --- |
+| Facebook | 284882215 | US |
+| Instagram | 389801252 | US |
+| TikTok | 835599320 | US |
+| YouTube | 544007664 | US |
+| 哔哩哔哩 | 736536022 | CN |
+| 小红书 | 741292507 | CN |
+| 微信 | 414478124 | CN |
+| 微博 | 350962117 | CN |
+| 知乎 | 432274380 | CN |
+| 红果短剧 | 6451407032 | CN |
 
 - 国内综艺：logos/国内综艺.png
 - 国外综艺：logos/国外综艺.png
