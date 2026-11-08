@@ -16,6 +16,8 @@ App 图标通过 [App Store Lookup](https://applookup.pro/) 使用的 Apple iTun
 
 官方图标更新于 2026-11-05，核对的 App Store 条目如下：
 
+2026-11-08 新增网易云音乐官方图标。
+
 | 图标 | App Store ID | 商店地区 |
 | --- | --- | --- |
 | Facebook | 284882215 | US |
@@ -28,6 +30,7 @@ App 图标通过 [App Store Lookup](https://applookup.pro/) 使用的 Apple iTun
 | 微博 | 350962117 | CN |
 | 知乎 | 432274380 | CN |
 | 红果短剧 | 6451407032 | CN |
+| 网易云音乐 | 590338362 | CN |
 
 - 国内综艺：logos/国内综艺.png
 - 国外综艺：logos/国外综艺.png
@@ -41,6 +44,7 @@ App 图标通过 [App Store Lookup](https://applookup.pro/) 使用的 Apple iTun
 - 微信：logos/official-ios/微信.png
 - 知乎：logos/official-ios/知乎.png
 - 小红书：logos/official-ios/小红书.png
+- 网易云音乐：logos/official-ios/网易云音乐.png
 
 ## 添加图标
 
