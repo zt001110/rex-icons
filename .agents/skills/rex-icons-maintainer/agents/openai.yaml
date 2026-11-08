@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rex 图标库维护"
+  short_description: "添加和更新 Rex 图标库的官方应用图标、用户图片与索引"
+  default_prompt: "使用 $rex-icons-maintainer 为 rex-icons 项目添加或更新图标，并同步索引。"
