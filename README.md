@@ -10,7 +10,7 @@
 
 ## 当前图标
 
-EMBY 图标保存在 `logos/EMBY/`：步兵、瞬影、兔子、Youno、ETFLIX。
+EMBY 图标保存在 `logos/EMBY/`：步兵、瞬影、兔子、YounoPlus、ETFLIX。
 
 2026-11-12，`logos/official-ios/` 中的 12 张 App 图标更新为用户提供的 512×512 透明圆角 PNG，其中抖音为新增条目。综艺分类图标使用原始 PNG，不额外加底或重绘。
 
