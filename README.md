@@ -12,17 +12,16 @@
 
 EMBY 图标保存在 `logos/EMBY/`：步兵、瞬影、兔子、YounoPlus、ETFLIX。
 
-App 图标通过 [App Store Lookup](https://applookup.pro/) 使用的 Apple iTunes Lookup API 获取，采用官方 `artworkUrl512` 原图，仅转换为 PNG 格式，不添加圆角遮罩或重绘。综艺分类图标使用原始 PNG，不额外加底或重绘。
+2026-11-12，`logos/official-ios/` 中的 12 张 App 图标更新为用户提供的 512×512 透明圆角 PNG，其中抖音为新增条目。综艺分类图标使用原始 PNG，不额外加底或重绘。
 
-官方图标更新于 2026-11-05，核对的 App Store 条目如下：
-
-2026-11-08 新增网易云音乐官方图标。
+下表记录对应的 App Store 条目。
 
 | 图标 | App Store ID | 商店地区 |
 | --- | --- | --- |
 | Facebook | 284882215 | US |
 | Instagram | 389801252 | US |
 | TikTok | 835599320 | US |
+| 抖音 | 1142110895 | CN |
 | YouTube | 544007664 | US |
 | 哔哩哔哩 | 736536022 | CN |
 | 小红书 | 741292507 | CN |
@@ -37,6 +36,7 @@ App 图标通过 [App Store Lookup](https://applookup.pro/) 使用的 Apple iTun
 - 哔哩哔哩：logos/official-ios/哔哩哔哩.png
 - YouTube：logos/official-ios/YouTube.png
 - TikTok：logos/official-ios/TikTok.png
+- 抖音：logos/official-ios/抖音.png
 - Instagram：logos/official-ios/Instagram.png
 - Facebook：logos/official-ios/Facebook.png
 - 红果短剧：logos/official-ios/红果短剧.png
